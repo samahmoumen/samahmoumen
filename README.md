@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 Hi, I’m Samah!<br>💻 Software Engineering student passionate about learning and growing.<br>🚀 Currently exploring Cloud , DevOps and distributed systems.<br>💡 Always excited to dive into new technologies and challenges!<br>
+# 👋 Hi, I’m Samah!
+<br>💻 Software Engineering student passionate about learning and growing.<br>🚀 Currently exploring Cloud , DevOps and distributed systems.<br>💡 Always excited to dive into new technologies and challenges!<br>
 
 
 ## 🌐 Socials:
